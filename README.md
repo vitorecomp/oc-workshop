@@ -1,1 +1,1 @@
-# oc-workshop
+# ocp-workshop
